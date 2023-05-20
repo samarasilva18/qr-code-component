@@ -62,4 +62,4 @@ This was my first Frontend Mentor solution, and I decided to go as simple as pos
 ## Author
 
 - Frontend Mentor - [@samarasilva18](https://www.frontendmentor.io/profile/samarasilva18)
-- Github - [samarasilva16](https://github.com/samarasilva18)
+- Github - [samarasilva18](https://github.com/samarasilva18)
