@@ -13,6 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -63,3 +64,7 @@ This was my first Frontend Mentor solution, and I decided to go as simple as pos
 
 - Frontend Mentor - [@samarasilva18](https://www.frontendmentor.io/profile/samarasilva18)
 - Github - [samarasilva18](https://github.com/samarasilva18)
+
+## Acknowledgments
+
+- Thanks so much to Mohammed Ahmad Hussain (@mah07308) in Front End Mentor for helping me with making the design look good on both mobile and desktop screens!
