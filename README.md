@@ -25,7 +25,7 @@ In this README I go over my process of development for this challenge, the thing
 
 ### Links
 
-- Solution URL: [](https://github.com/samarasilva18/qr-code-component)
+- Solution URL: [](https://www.frontendmentor.io/solutions/qr-code-component-challenge-using-flexbox--fd9CdJ0M3)
 - Live Site URL: [](https://samarasilva18.github.io/qr-code-component/)
 
 ## My process
