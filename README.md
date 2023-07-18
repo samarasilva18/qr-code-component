@@ -21,7 +21,7 @@ In this README I go over my process of development for this challenge, the thing
 
 ### Screenshot
 
-![](.images/screenshot.png)
+![](./images/screenshot.png)
 
 ### Links
 

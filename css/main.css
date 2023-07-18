@@ -67,6 +67,10 @@ main .attribution {
         margin-bottom: 0.6rem;
     }
 
+    main .title {
+      max-width: 100%;
+    }
+
     main .paragraph {
         margin-bottom: 1.6rem;
     }
